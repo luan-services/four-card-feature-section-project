@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div  className="min-h-screen w-full bg-custom-gray-400 font-popins-regular"> 
+      <div  className="min-h-screen w-full bg-custom-white font-popins-regular"> 
         <HashRouter>
           <Routes>
             <Route path="/" element={<Home/>}/>

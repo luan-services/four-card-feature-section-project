@@ -6,24 +6,24 @@ import icon_team_builder from "/src/assets/images/icon-team-builder.svg"
 
 export const cards = [
     {
-        imgSrc: icon_calculator,
-        title: "HTML & CSS foundations",
-        desc: "These languages are the backbone of every website, defining structure, content, and presentation.",
-    },
-    {
-        imgSrc: icon_karma,
-        title: "HTML & CSS foundations",
-        desc: "These languages are the backbone of every website, defining structure, content, and presentation.",
-    },
-    {
         imgSrc: icon_supervisor,
-        title: "HTML & CSS foundations",
-        desc: "These languages are the backbone of every website, defining structure, content, and presentation.",
+        title: "Supervisor",
+        desc: "Monitors activity to identify project roadblocks.",
     },
     {
         imgSrc: icon_team_builder,
-        title: "HTML & CSS foundations",
-        desc: "These languages are the backbone of every website, defining structure, content, and presentation.",
+        title: "Team Builder",
+        desc: "Scans our talent network to create the optimal team for your project.",
+    },
+    {
+        imgSrc: icon_calculator,
+        title: "Calculator",
+        desc: "Uses data from past projects to provide better delivery estimates.",
+    },
+    {
+        imgSrc: icon_karma,
+        title: "Karma",
+        desc: "Regularly evaluates our talent to ensure quality.",
     },
 
 ]
